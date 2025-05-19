@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**baratsamrat/baratsamrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, 😊 I am Samrat Barat 
+I am an aspiring **AWS Data Engineer** currently  building hands-on projects with S3, Glue, Athena, Redshift, and Airflow
+## My Projects (Coming Soon!)
+_ **aws-s3-glue-athena-pipeline**  *(In Progress)*
+Building a data lake with S3 running ETL with AWS Glue, and querying with Athena
+_ **aws-redshift-etl** *(Planned)*
+Will load structured data into Redshift and run analytics
+_ **airflow_aws_pipeline**  *(Coming soon!)*
+Automate the data pipeline using Apache Airflow on EC2
+_ **quicksight-dashboard** *(Planned)* 
+Visual dashboards from Athena/ Redshift using Quicksight
+_ **terraform-iac-for-data-engineering** *(Planned)*
+Infrastructure as a Code setup using Terraform
